@@ -124,3 +124,4 @@ SQL Server · Power BI · Power Query · DAX · Microsoft Dynamics NAV (origen d
 <img width="750" height="400" alt="7  Análisis del Impacto de las Devoluciones" src="https://github.com/user-attachments/assets/e5b73f9a-af0e-4b1f-ad2e-e34b3d839112" 
 />
 
+🎓 IEBS Business School
